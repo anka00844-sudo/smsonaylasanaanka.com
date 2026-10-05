@@ -1,0 +1,17 @@
+{
+  "name": "anka-sms-vip-panel",
+  "version": "2.0.0",
+  "description": "Anka SMS VIP - OnaylaSMS Canlı Servis & Ülke Satış Paneli",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1"
+  }
+}
